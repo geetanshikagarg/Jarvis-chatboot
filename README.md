@@ -1,5 +1,5 @@
 # Jarvis-chatboot
-This project" Javris chatbot" is created using python. I used  modules like pyttsx3, speechRecognition , pyaudio, wikipedia,etc
+This project" Jarvis chatbot" is created using python. I used  modules like pyttsx3, speechRecognition , pyaudio, wikipedia,etc
 Jarvis AI is a Python module that can perform tasks such as chatbots and assistants. It provides basic functions for any assistant application.
 This JarvisAI is built using modules like
 1. pyttsx3
